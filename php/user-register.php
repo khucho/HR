@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
 </head>
-<body style="background: #21130d;">
+<body style="background: #DFDFDF;">
     <div class="container d-flex justify-content-center align-items-center" style="min-height:100vh">
         <form  class="border shadow p-3 rounded" action="user-check-register.php" method="post" style="width: 450px; background: #FFFFFF;">
             <!-- <div class="text-center">
